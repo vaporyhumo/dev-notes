@@ -1,5 +1,5 @@
 # Ruby Patterns
-[[facades]] Facades
-[[factories]] Factories
-[[queries]] Queries
-[[values]] Values
+- [Facades](facades.md)
+- [Factories](factories.md)
+- [Queries](queries.md)
+- [Values](values.md)
