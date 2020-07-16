@@ -1,5 +1,5 @@
-# Facade Pattern
-Es un tipo de objeto que se le puede pasar a una vista. Básicamente implementa el patrón `facade`, en donde se ofrece una interfaz limitada y simplificada a un conjunto de dependencias.
+# Façades
+Un façade es un tipo de objeto que se le puede pasar a una vista y que implementa el patrón `facade`, en donde se ofrece una interfaz limitada y simplificada a un conjunto de dependencias.
 
 Se pueden implementar usando `Struct`s.
 
